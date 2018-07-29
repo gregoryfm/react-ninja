@@ -2,8 +2,8 @@
 
 import React from 'react';
 
-const Title = React.createClass({
-  render: () => <h1>Titulo</h1>
+const App = React.createClass({
+  render: () => <h1>App React.JS</h1>
 })
 
-export default Title;
+export default App;
